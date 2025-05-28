@@ -13,11 +13,19 @@
 ## 👨‍💻 À propos de moi
 
 - 🌍 Basé à Montpellier  
-- 🧠 Passionné par le développement web & mobile
-- 🚀 Actuellement je travaille sur des projets Next.js et Flutter
-- 📫 Contact : [mikael.very34@gmail.com](mailto:mikael.very34@gmail.com)
-- 🌐 Portfolio : [mikaelvery.com](https://www.mikaelvery.com)
-- 🔗 LinkedIn : [linkedin.com/in/mikaelvery](https://linkedin.com/in/mikaelvery)
+- 🧠 Passionné par le développement web & mobile  
+- 🚀 Actuellement je travaille sur des projets Next.js et Flutter  
+- 📫 Contact : [mikael.very34@gmail.com](mailto:mikael.very34@gmail.com)  
+- 🌐 Portfolio : [mikaelvery.com](https://www.mikaelvery.com)  
+- 🔗 LinkedIn : [linkedin.com/in/mikaelvery](https://linkedin.com/in/mikaelvery)  
+
+<p align="center">
+  [![Email](https://img.shields.io/badge/Email-mikael.very34@gmail.com-blue?style=flat&logo=gmail)](mailto:mikael.very34@gmail.com)
+  &nbsp;&nbsp;
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-MikaelVery-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mikaelvery)
+  &nbsp;&nbsp;
+  [![Portfolio](https://img.shields.io/badge/Portfolio-mikaelvery.com-00FFAA?style=flat&logo=ko-fi&logoColor=white)](https://www.mikaelvery.com)
+</p>
 
 ---
 
@@ -25,6 +33,14 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vercel,js,ts,tailwind,nodejs,angular,flutter,dotnet,php,symfony,html,css,figma,gitlab,mongodb,mysql" />
+</p>
+
+---
+
+## 🧑‍💻 Langages les plus utilisés
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelvery&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </p>
 
 ---
@@ -54,8 +70,33 @@
 </p>
 
 ---
+
+## 🌐 Outils & Workflow
+
+- Visual Studio Code  
+- Git & GitHub  
+- Postman  
+- Figma  
+- Docker  
+- Linux / WSL  
+
+---
+
+## 🌟 Langues & Soft Skills
+
+- 🇫🇷 Français (natif)  
+- 🇬🇧 Anglais (professionnel)  
+- 💡 Esprit d’équipe, autonomie, résolution de problèmes  
+- 🔄 Adaptabilité & apprentissage continu  
+
+---
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=1000&lines=Merci+de+visiter+mon+profil+!;Construisons+quelque+chose+ensemble+🚀" />
 </div>
 
 ---
+
+<p align="center">
+  👉 [Discutons de votre projet !](mailto:mikael.very34@gmail.com)
+</p>
