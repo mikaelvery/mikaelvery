@@ -1,11 +1,7 @@
-<p align="center">
-  Made with ❤️ by <a href="https://www.mikaelvery.com" target="_blank">Mikael Very</a>
-</p>
-
 <h1 align="center">Salut 👋, moi c’est Mikael Very</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=1000&lines=D%C3%A9veloppeur+Fullstack+Web+%26+Mobile;React+%7C+Next.js+%7C+Flutter+%7C+Symfony+%7C+Node.js;Toujours+en+train+d%E2%80%99apprendre+et+de+cr%C3%A9er+🚀" alt="Animated typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=1000&lines=D%C3%A9veloppeur+Fullstack+Web+%26+Mobile;React+%7C+Next.js+%7C+Flutter+%7C+Angular+%7C+Node.js;Toujours+en+train+d%E2%80%99apprendre+et+de+cr%C3%A9er+🚀" alt="Animated typing" />
 </p>
 
 ---
@@ -19,20 +15,12 @@
 - 🌐 Portfolio : [mikaelvery.com](https://www.mikaelvery.com)  
 - 🔗 LinkedIn : [linkedin.com/in/mikaelvery](https://linkedin.com/in/mikaelvery)  
 
-<p align="center">
-  [![Email](https://img.shields.io/badge/Email-mikael.very34@gmail.com-blue?style=flat&logo=gmail)](mailto:mikael.very34@gmail.com)
-  &nbsp;&nbsp;
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-MikaelVery-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mikaelvery)
-  &nbsp;&nbsp;
-  [![Portfolio](https://img.shields.io/badge/Portfolio-mikaelvery.com-00FFAA?style=flat&logo=ko-fi&logoColor=white)](https://www.mikaelvery.com)
-</p>
-
 ---
 
 ## 🧰 Compétences techniques
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vercel,js,ts,tailwind,nodejs,angular,flutter,dotnet,php,symfony,html,css,figma,gitlab,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vercel,js,ts,tailwind,nodejs,angular,flutter,dotnet,php,symfony,html,css," />
 </p>
 
 ---
@@ -73,19 +61,19 @@
 
 ## 🌐 Outils & Workflow
 
-- Visual Studio Code  
-- Git & GitHub  
-- Postman  
-- Figma  
-- Docker  
-- Linux / WSL  
+- Bases de données : MySQL, MongoDB, Firebase, Supabase 
+- Gestion de versions : Git, GitHub
+- IDE : VS Code, Android Studio
+- Design & prototypage : Figma, Photoshop
+- Déploiement : Vercel, Heroku  
+- Environnements & Conteneurs : Docker, WSL, Linux 
 
 ---
 
 ## 🌟 Langues & Soft Skills
 
 - 🇫🇷 Français (natif)  
-- 🇬🇧 Anglais (professionnel)  
+- 🇬🇧 Anglais (intermédiaire)  
 - 💡 Esprit d’équipe, autonomie, résolution de problèmes  
 - 🔄 Adaptabilité & apprentissage continu  
 
@@ -95,8 +83,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=1000&lines=Merci+de+visiter+mon+profil+!;Construisons+quelque+chose+ensemble+🚀" />
 </div>
 
----
-
 <p align="center">
-  👉 [Discutons de votre projet !](mailto:mikael.very34@gmail.com)
+  Made with ❤️ by <a href="https://www.mikaelvery.com" target="_blank">Mikael Very</a>
 </p>
