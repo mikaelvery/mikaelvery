@@ -14,7 +14,7 @@
 
 - 🌍 Basé à Montpellier  
 - 🧠 Passionné par le développement web & mobile
-- 🚀 Actuellement je travaille sur des projets Flutter et Next.js
+- 🚀 Actuellement je travaille sur des projets Next.js et Flutter
 - 📫 Contact : [mikael.very34@gmail.com](mailto:mikael.very34@gmail.com)
 - 🌐 Portfolio : [mikaelvery.com](https://www.mikaelvery.com)
 - 🔗 LinkedIn : [linkedin.com/in/mikaelvery](https://linkedin.com/in/mikaelvery)
