@@ -53,7 +53,7 @@
 
 ---
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=14B8A6&center=true&vCenter=true&width=1000&lines=Merci+de+visiter+mon+profil+!;Construisons+quelque+chose+ensemble+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=1000&lines=Merci+de+visiter+mon+profil+!;Construisons+quelque+chose+ensemble+🚀" />
 </div>
 
 ---
