@@ -1,52 +1,61 @@
-### 👋 Salut, moi c’est Mikael Very !
+<p align="center">
+  Made with ❤️ by <a href="https://www.mikaelvery.com" target="_blank">Mikael Very</a>
+</p>
 
----
+<h1 align="center">Salut 👋, moi c’est Mikael Very</h1>
 
-![](https://komarev.com/ghpvc/?username=mikaelvery&color=0f3d2e)
+[![An image of @mikaelvery's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mikaelvery)](https://holopin.io/@mikaelvery)
 
-<h3>🧠 Je travaille avec :</h3>
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img alt="CSharp" src="https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=csharp&logoColor=white" />
-  <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
-  <img alt="Symfony" src="https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=1000&lines=D%C3%A9veloppeur+Fullstack+Web+%26+Mobile;React+%7C+Next.js+%7C+Flutter+%7C+Symfony+%7C+Node.js;Toujours+en+train+d%E2%80%99apprendre+et+de+cr%C3%A9er+🚀" alt="Typing animation" />
 </p>
 
 ---
 
-<h3>📦 Mes projets récents</h3>
+## 👨‍💻 À propos de moi
 
-- 🧑‍💻 **[portfolio](https://github.com/mikaelvery/portfolio)** — Mon portfolio personnel | **React, Next.js**
-- 🛠️ **[chary-depannage-website](https://github.com/mikaelvery/chary-depannage-website)** — Site vitrine de plomberie | **Next.js**
-- 🐑 **[sheep_care](https://github.com/mikaelvery/sheep_care)** — Gestion des parcelles et stocks de brebis | **Flutter**
-- 🧾 **[MicroServiceAnnonce](https://github.com/mikaelvery/MicroServiceAnnonce)** — Microservice Annonce | **C#, RabbitMQ**
-- 🍕 **[food-lover](https://github.com/mikaelvery/food-lover)** — App de livraison façon UberEats | **HTML, CSS**
-- 💳 **[KokotBank_Symfony](https://github.com/mikaelvery/KokotBank_Symfony)** — App bancaire (projet école) | **Symfony**
-
----
-
-<h3>📊 Stats GitHub</h3>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mikaelvery&theme=dark&hide_border=true&ring=0f3d2e&currStreakNum=efebe2&currStreakLabel=efebe2)](https://git.io/streak-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mikaelvery&show_icons=true&hide_border=true&bg_color=0f3d2e&title_color=efebe2&text_color=efebe2&icon_color=efebe2)
+- 🌍 Basé à Montpellier  
+- 🧠 Passionné par le développement web & mobile
+- 🚀 Actuellement je travaille sur des projets Flutter et Next.js
+- 📫 Contact : [mikael.very34@gmail.com](mailto:mikael.very34@gmail.com)
+- 🌐 Portfolio : [mikaelvery.com](https://www.mikaelvery.com)
+- 🔗 LinkedIn : [linkedin.com/in/mikaelvery](https://linkedin.com/in/mikaelvery)
 
 ---
 
-<h3>📬 Me contacter</h3>
+## 🧰 Compétences techniques
 
-<p>
-  <a href="mailto:mikael.very34@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mikaelvery/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/mikaelvery"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://x.com/Kaakami_Tv"><img alt="X.com" src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" /></a>
-  <a href="https://www.mikael.very.com"><img alt="Site Web" src="https://img.shields.io/badge/-mikael.very.com-0f3d2e?style=flat-square&logo=vercel&logoColor=white" /></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vercel,js,ts,tailwind,nodejs,angular,flutter,dotnet,php,symfony,html,css,figma,gitlab,mongodb,mysql" />
 </p>
 
 ---
 
-☕ Si tu veux me soutenir ou discuter projets, contacte-moi par mail ou sur LinkedIn 😉  
+## 📦 Projets récents
+
+| Projet | Description | Tech |
+|--------|-------------|------|
+| 🧑‍💻 [**Portfolio**](https://github.com/mikaelvery/portfolio) | Mon site personnel | React, Next.js |
+| 🛠️ [**Chary Dépannage Website**](https://github.com/mikaelvery/chary-depannage-website) | Site vitrine d’un plombier multitâche | Next.js |
+| 🐑 [**Sheep Care**](https://github.com/mikaelvery/sheep_care) | Gestion de stock et parcelles pour une ferme de brebis | Flutter |
+| 🍕 [**Pizza App**](https://github.com/mikaelvery/flutter) | App Flutter avec suivi temps réel des livraisons | Flutter, Google Maps |
+
+---
+
+## 📊 Stats GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mikaelvery&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFAA&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mikaelvery&theme=dark&hide_border=true&ring=00FFAA&currStreakLabel=ffffff" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikaelvery&theme=react-dark&hide_border=true&area=true&point=00ffcc&color=00ffaa" />
+</p>
+
+---
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=14B8A6&center=true&vCenter=true&width=1000&lines=Merci+de+visiter+mon+profil+!;Construisons+quelque+chose+ensemble+🚀" />
+</div>
+
+---
