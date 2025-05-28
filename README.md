@@ -44,7 +44,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mikaelvery&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFAA&text_color=ffffff" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=mikaelvery&theme=dark&hide_border=true&ring=00FFAA&currStreakLabel=ffffff" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=mikaelvery&theme=dark&hide_border=true&ring=00FFAA&currStreakLabel=ffffff&cache_seconds=3600" width="48%" />
 </p>
 
 <p align="center">
