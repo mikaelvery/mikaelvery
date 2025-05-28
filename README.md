@@ -44,9 +44,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mikaelvery&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFAA&text_color=ffffff" width="48%" />
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-delta-eosin.vercel.app/api?user=mikaelvery&theme=dark&hide_border=true&bg_color=0D1117&ring=00FFAA&currStreakLabel=ffffff" alt="GitHub Streak" width="48%" />
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-5lisgr6ef-mikaelverys-projects.vercel.app?user=&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
