@@ -4,8 +4,6 @@
 
 <h1 align="center">Salut 👋, moi c’est Mikael Very</h1>
 
-[![An image of @mikaelvery's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mikaelvery)](https://holopin.io/@mikaelvery)
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=1000&lines=D%C3%A9veloppeur+Fullstack+Web+%26+Mobile;React+%7C+Next.js+%7C+Flutter+%7C+Symfony+%7C+Node.js;Toujours+en+train+d%E2%80%99apprendre+et+de+cr%C3%A9er+🚀" alt="Typing animation" />
 </p>
