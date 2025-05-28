@@ -5,7 +5,7 @@
 <h1 align="center">Salut 👋, moi c’est Mikael Very</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=1000&lines=D%C3%A9veloppeur+Fullstack+Web+%26+Mobile;React+%7C+Next.js+%7C+Flutter+%7C+Symfony+%7C+Node.js;Toujours+en+train+d%E2%80%99apprendre+et+de+cr%C3%A9er+🚀" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=1000&lines=D%C3%A9veloppeur+Fullstack+Web+%26+Mobile;React+%7C+Next.js+%7C+Flutter+%7C+Symfony+%7C+Node.js;Toujours+en+train+d%E2%80%99apprendre+et+de+cr%C3%A9er+🚀" alt="Animated typing" />
 </p>
 
 ---
