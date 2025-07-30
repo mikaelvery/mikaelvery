@@ -39,7 +39,7 @@
 |--------|-------------|------|
 | 🧑‍💻 [**Portfolio**](https://github.com/mikaelvery/portfolio) | Mon site personnel | React, Next.js |
 | 🛠️ [**Chary Dépannage Website**](https://github.com/mikaelvery/chary-depannage-website) | Site vitrine d’un plombier à Metz multitâche | Next.js |
-| 🏡 [**Family Manager App**](https://github.com/mikaelvery/family_manager_app) | Gestion vacances, rendez-vous docteur, documents familiaux, tâches & rappels | Flutter |
+| 🏡 [**Family Manager App**](https://github.com/mikaelvery/family_manager_app) | Appli de Gestion pour ma femme et moi de vacances, rendez-vous docteur, documents familiaux et personnel en PDF, tâches & rappels | Flutter |
 | 📄 [**Devis Facture GG Intervention**](https://github.com/mikaelvery/devis_facture_gg_intervention) | Application artisan pour devis, factures, signature électronique et rapports | Flutter |
 | 🐑 [**Sheep Care**](https://github.com/mikaelvery/sheep_care) | Gestion de stock et parcelles pour une ferme de brebis | Flutter |
 ---
